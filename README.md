@@ -1,2 +1,0 @@
-# MobileKart
-Similar to flipkart
